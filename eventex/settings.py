@@ -69,7 +69,7 @@ TEMPLATES = [
             ],
         },
     },
-]
+] 
 
 WSGI_APPLICATION = 'eventex.wsgi.application'
 
