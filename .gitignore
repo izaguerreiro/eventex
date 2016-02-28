@@ -3,5 +3,6 @@
 .wttd
 *.sqlite3
 .pyc
+*.pyc
 __pycache__/
 staticfiles
